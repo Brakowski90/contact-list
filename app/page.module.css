@@ -1,0 +1,40 @@
+.contact-name {
+  font-size: 18px; 
+  font-weight: bold; 
+}
+.container {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+.input {
+  margin-bottom: 10px;
+  padding: 8px;
+}
+
+.button {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.link {
+  margin-top: 10px;
+  display: block;
+  text-align: center;
+  color: #0070f3;
+  text-decoration: none;
+  font-weight: bold;
+}
